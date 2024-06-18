@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodnnyaltamir&label=Profile%20views&color=0e75b6&style=flat" alt="David-Dev786" /> </p>
 
 - 🔭 I’m currently working on C#
-- 🌱 I’m currently learning Phyton and more.... 
-- 📫 How to reach me: **rodnnyaltamirano@gmial.com**
+- 🌱 I’m currently learning Python and more.... 
+- 📫 How to reach me: **rodnnyaltamirano@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
