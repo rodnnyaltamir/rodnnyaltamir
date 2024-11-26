@@ -1,13 +1,13 @@
-<h1 align="center">Hey Everyone, I'm Rodnny Altamirano</h1>
+<h1 align="center">Hey Guy's, I'm Rodnny Altamirano Flores</h1>
 <h2 align="center">Back-End Developer</h2>
 
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=gif%20guy%20coding&imgurl=https%3A%2F%2Faster.cloud%2Fwp-content%2Fuploads%2F2022%2F11%2Fcompiling-code.gif&imgrefurl=https%3A%2F%2Faster.cloud%2F2022%2F11%2F28%2Fwhat-you-need-to-know-about-compiling-code%2F&docid=ajeyYRPcoFhq0M&tbnid=35X6L1D39_KDvM&vet=12ahUKEwjNz6vs1vqJAxWuHrkGHeOiMdkQM3oECEYQAA..i&w=500&h=500&hcb=2&ved=2ahUKEwjNz6vs1vqJAxWuHrkGHeOiMdkQM3oECEYQAA">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodnnyaltamir&label=Profile%20views&color=0e75b6&style=flat" alt="David-Dev786" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodnnyaltamir&label=Profile%20views&color=0e75b6&style=flat" alt="Rodalt-12" /> </p>
 
-- 🔭 I’m currently working on C#
-- 🌱 I’m currently learning Python and more.... 
-- 📫 How to reach me: **rodnnyaltamirano@gmail.com**
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Kotlin and more.... 
+- 📫 How to reach me: **rodaltfl.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
